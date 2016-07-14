@@ -20,3 +20,14 @@ body {
 	  display: inline-block;
 	  margin: auto;
     }
+
+.nav-navbar-nav{
+     text-align:right;
+     vertical-align: middle;
+      height:40px;
+    color:white;
+    position:relative;
+    line-height:50px;
+}
+
+ 
